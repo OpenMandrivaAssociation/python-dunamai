@@ -2,7 +2,7 @@
 
 Name:		python-dunamai
 Version:	1.26.1
-Release:	1
+Release:	2
 Summary:	Dynamic version generation
 License:	MIT
 Group:		Development/Python
